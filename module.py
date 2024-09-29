@@ -1,3 +1,3 @@
 def pas_sender():
-    pas = 6647444
+    pas = 'Your Pass Goes in Here (DataType should be correct, string 'Pass', integer 1234)'
     return pas
